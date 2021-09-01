@@ -1,0 +1,1 @@
+ghostsArray.forEach(x => moveGhosts(x));
