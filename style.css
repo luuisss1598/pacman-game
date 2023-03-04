@@ -27,7 +27,7 @@ body {
     width: 900px;
     height: 99vh;
     margin: 0 auto;
-    border: red 1px solid;
+    /* border: red 1px solid; */
 }
 
 .grid {
